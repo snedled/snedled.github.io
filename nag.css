@@ -1,3 +1,7 @@
 body.lp-pom-body #lp-pom-root{
-background-color: red !important;
+    background-color: red !important;
+}
+
+.lp-pom-button{
+    border-radius: 0 !important;
 }
