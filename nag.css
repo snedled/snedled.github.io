@@ -1,3 +1,3 @@
-body.lp-pom-body !important{
-background-color: red;
+body.lp-pom-body{
+background-color: red !important;
 }
