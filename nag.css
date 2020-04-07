@@ -8,6 +8,11 @@ body.lp-pom-body #lp-pom-root{
 
 .lp-pom-button{
     border-radius: 0 !important;
+    background-color: #005aff !important;
+    height: 50px !important;
+    margin-bottom: calc(30px / 2) !important;
+    border: none !important;
+    min-width: 170px !important;
 }
 
 
