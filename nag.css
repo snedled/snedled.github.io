@@ -1,5 +1,15 @@
 *, h2 em, h2 em span{
     font-family: Soin Sans Neue !important;
+    font-size:15px;
+    font-stretch:100%;
+    font-style:normal;
+    font-variant-caps:normal;
+    font-variant-east-asian:normal;
+    font-variant-ligatures:normal;
+    font-variant-numeric:normal;
+    font-weight:400;
+    height:50px;
+    letter-spacing:normal;
 }
 
 body.lp-pom-body #lp-pom-root{
