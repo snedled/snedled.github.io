@@ -5,3 +5,32 @@ body.lp-pom-body #lp-pom-root{
 .lp-pom-button{
     border-radius: 0 !important;
 }
+
+
+@font-face {
+    font-family: Soin Sans Neue;
+    src: url(/fonts/soinsansneue-bold-webfont.woff2) format("woff2"),url(/fonts/soinsansneue-bold-webfont.woff) format("woff");
+    font-weight: var(font-weight-bold);
+    font-style: normal
+}
+
+@font-face {
+    font-family: Soin Sans Neue;
+    src: url(/fonts/soinsansneue-light-webfont.woff2) format("woff2"),url(/fonts/soinsansneue-light-webfont.woff) format("woff");
+    font-weight: var(font-weight-light);
+    font-style: normal
+}
+
+@font-face {
+    font-family: Soin Sans Neue;
+    src: url(/fonts/soinsansneue-medium-webfont.woff2) format("woff2"),url(/fonts/soinsansneue-medium-webfont.woff) format("woff");
+    font-weight: var(font-weight-medium);
+    font-style: normal
+}
+
+@font-face {
+    font-family: Soin Sans Neue;
+    src: url(/fonts/soinsansneue-roman-webfont.woff2) format("woff2"),url(/fonts/soinsansneue-roman-webfont.woff) format("woff");
+    font-weight: 400;
+    font-style: normal
+}
