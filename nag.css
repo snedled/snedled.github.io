@@ -7,6 +7,9 @@
 
 
 */
+.lp-pom-button .label{
+    text-transform: uppercase;
+}
 
 *, h2 em, h2 em span, .lp-pom-button .label{
     font-family: Soin Sans Neue !important;
