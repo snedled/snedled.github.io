@@ -9,9 +9,11 @@
 */
 .lp-pom-button .label{
     text-transform: uppercase;
+    letter-spacing: normal !important;
 }
 
 *, h2 em, h2 em span, .lp-pom-button .label{
+    letter-spacing: normal !important;
     font-family: Soin Sans Neue !important;
     font-size:15px;
     font-stretch:100%;
