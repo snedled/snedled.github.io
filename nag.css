@@ -1,3 +1,13 @@
+/*
+.top-nav
+.top-nav.shop-button
+.top-nav.top-nav-active
+
+.button
+
+
+*/
+
 *, h2 em, h2 em span{
     font-family: Soin Sans Neue !important;
     font-size:15px;
@@ -17,7 +27,6 @@ a.top-nav{
 }
 a.top-nav.top-nav-active{
     background-color: rgba(24,24,24,1) !important;
-    
 }
 
 a.top-nav.shop-button{
@@ -28,7 +37,7 @@ body.lp-pom-body #lp-pom-root{
     background-color: red !important;
 }
 
-.lp-pom-button{
+.lp-pom-button.button{
     border-radius: 0 !important;
     background-color: #005aff !important;
     height: 50px !important;
@@ -36,6 +45,7 @@ body.lp-pom-body #lp-pom-root{
     border: none !important;
     min-width: 170px !important;
 }
+
 
 
 @font-face {
