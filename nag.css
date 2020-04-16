@@ -12,7 +12,7 @@
 h3, h3 span,
 h2, h2 em, h2 em span, h2 span,
 body .lp-pom-button .label, body .lp-pom-button .label em, .lp-pom-button .label, .lp-pom-button .label em strong,
-.lp-pom-button span strong,
+.lp-pom-button .label strong,
 p, p span{
     letter-spacing: normal !important;
     font-family: Soin Sans Neue !important;
