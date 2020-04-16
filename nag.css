@@ -46,7 +46,7 @@ body.lp-pom-body #lp-pom-root{
     background-color: purple !important;
 }
 
-.lp-pom-button.button{
+.lp-pom-box.button, .lp-pom-button.button{
     border-radius: 0 !important;
     background-color: #005aff !important;
     height: 50px !important;
