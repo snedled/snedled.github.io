@@ -73,6 +73,9 @@ body.lp-pom-body #lp-pom-root{
     min-width: 170px;
     text-decoration: none !important;
 }
+.lp-pom-box.button.small, .lp-pom-button.button.small, .lp-pom-box.button.small a, .lp-pom-button.button.small a{
+    min-width: 14px;
+}
 
 .has-blue-background {
     background: #888 !important;
