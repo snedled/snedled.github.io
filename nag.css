@@ -35,7 +35,7 @@ h3, h3 span, h2 em, h2 em span, body .lp-pom-button .label,
 body .lp-pom-button .label em, .lp-pom-button .label, .lp-pom-button .label em strong, h2 span, h2{
     font-size:15px !important;
 }
-h3, h3 span, h2, h2 span{
+h3, h3 span, h2, h2 span, h2 strong em{
     font-size: 21px !important;
 }
 
