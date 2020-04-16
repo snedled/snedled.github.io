@@ -55,7 +55,12 @@ body.lp-pom-body #lp-pom-root{
     min-width: 170px !important;
 }
 
-
+.lp-pom-box.button a {
+    display: block;
+    min-height: 50px;
+    line-height: 50px;
+    min-width: 170px;
+}
 
 @font-face {
     font-family: Soin Sans Neue;
