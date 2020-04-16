@@ -11,7 +11,7 @@
     letter-spacing: normal !important;
 }
 
-h2 em, h2 em span, body .lp-pom-button .label, body .lp-pom-button .label em{
+h3, h3 span, h2 em, h2 em span, body .lp-pom-button .label, body .lp-pom-button .label em{
     letter-spacing: normal !important;
     font-family: Soin Sans Neue !important;
     font-size:15px;
@@ -25,6 +25,7 @@ h2 em, h2 em span, body .lp-pom-button .label, body .lp-pom-button .label em{
     height:50px;
     letter-spacing:normal !important;
 }
+
 a.top-nav{
     background-color: rgba(41,41,41,1) !important;
     font-size: 14px !important;
