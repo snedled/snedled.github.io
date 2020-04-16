@@ -66,12 +66,12 @@ body.lp-pom-body #lp-pom-root{
     border: none !important;
     min-width: 170px !important;
 }
-
-.lp-pom-box.button a {
+.lp-pom-box.button, .lp-pom-button.button a{
     display: block;
     min-height: 50px;
     line-height: 50px !important;
     min-width: 170px;
+    text-decoration: none;
 }
 
 .has-blue-background {
