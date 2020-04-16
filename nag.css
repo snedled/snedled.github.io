@@ -7,11 +7,8 @@
 
 
 */
-.lp-pom-button .label{
-    letter-spacing: normal !important;
-}
 
-h3, h3 span, h2 em, h2 em span, body .lp-pom-button .label, body .lp-pom-button .label em, .lp-pom-button .label em strong{
+h3, h3 span, h2 em, h2 em span, body .lp-pom-button .label, body .lp-pom-button .label em, .lp-pom-button .label, .lp-pom-button .label em strong{
     letter-spacing: normal !important;
     font-family: Soin Sans Neue !important;
     font-size:15px;
@@ -40,6 +37,9 @@ a.top-nav.top-nav-active{
 
 a.top-nav.shop-button{
     background-color: #005aff !important;
+}
+a.top-nav.shop-button.top-nav-active{
+    border-bottomn: 2px solid white;
 }
 
 body.lp-pom-body #lp-pom-root{
