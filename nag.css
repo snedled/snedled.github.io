@@ -39,7 +39,7 @@ a.top-nav.shop-button{
     background-color: #005aff !important;
 }
 a.top-nav.shop-button.top-nav-active{
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid white !important;
 }
 
 body.lp-pom-body #lp-pom-root{
