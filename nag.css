@@ -71,7 +71,7 @@ body.lp-pom-body #lp-pom-root{
     min-height: 50px;
     line-height: 50px !important;
     min-width: 170px;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .has-blue-background {
