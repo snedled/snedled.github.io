@@ -11,7 +11,6 @@
 h3, h3 span, h2 em, h2 em span, body .lp-pom-button .label, body .lp-pom-button .label em, .lp-pom-button .label, .lp-pom-button .label em strong, h2 span, h2, p, p span{
     letter-spacing: normal !important;
     font-family: Soin Sans Neue !important;
-    font-size:15px;
     font-stretch:100%;
     font-style:normal  !important;
     font-variant-caps:normal  !important;
@@ -19,8 +18,17 @@ h3, h3 span, h2 em, h2 em span, body .lp-pom-button .label, body .lp-pom-button 
     font-variant-ligatures:normal  !important;
     font-variant-numeric:normal  !important;
     font-weight:400;
-    height:50px;
     letter-spacing:normal !important;
+}
+body .lp-pom-button .label,
+body .lp-pom-button .label em,
+.lp-pom-button .label,
+.lp-pom-button .label em strong{
+    height: 50px;
+}
+h3, h3 span, h2 em, h2 em span, body .lp-pom-button .label,
+body .lp-pom-button .label em, .lp-pom-button .label, .lp-pom-button .label em strong, h2 span, h2{
+    font-size:15px;
 }
 h3, h3 span{
     font-size: 21px !important;
