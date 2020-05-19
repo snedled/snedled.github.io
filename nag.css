@@ -89,28 +89,28 @@ body.lp-pom-body #lp-pom-root{
 
 @font-face {
     font-family: Soin Sans Neue;
-    src: url(https://www.captureone.com/fonts/soinsansneue-bold-webfont.woff2) format("woff2"),url(https://www.captureone.com/fonts/soinsansneue-bold-webfont.woff) format("woff");
+    src: url(https://learn.captureone.com/wp-content/themes/captureone/fonts/soinsansneue-bold-webfont.woff2) format("woff2"),url(https://learn.captureone.com/wp-content/themes/captureone/fonts/soinsansneue-bold-webfont.woff) format("woff");
     font-weight: var(font-weight-bold);
     font-style: normal
 }
 
 @font-face {
     font-family: Soin Sans Neue;
-    src: url(https://www.captureone.com/fonts/soinsansneue-light-webfont.woff2) format("woff2"),url(https://www.captureone.com/fonts/soinsansneue-light-webfont.woff) format("woff");
+    src: url(https://learn.captureone.com/wp-content/themes/captureone/fonts/soinsansneue-light-webfont.woff2) format("woff2"),url(https://learn.captureone.com/wp-content/themes/captureone/fonts/soinsansneue-light-webfont.woff) format("woff");
     font-weight: var(font-weight-light);
     font-style: normal
 }
 
 @font-face {
     font-family: Soin Sans Neue;
-    src: url(https://www.captureone.com/fonts/soinsansneue-medium-webfont.woff2) format("woff2"),url(https://www.captureone.com/fonts/soinsansneue-medium-webfont.woff) format("woff");
+    src: url(https://learn.captureone.com/wp-content/themes/captureone/fonts/soinsansneue-medium-webfont.woff2) format("woff2"),url(https://learn.captureone.com/wp-content/themes/captureone/fonts/soinsansneue-medium-webfont.woff) format("woff");
     font-weight: var(font-weight-medium);
     font-style: normal
 }
 
 @font-face {
     font-family: Soin Sans Neue;
-    src: url(https://www.captureone.com/fonts/soinsansneue-roman-webfont.woff2) format("woff2"),url(https://www.captureone.com/fonts/soinsansneue-roman-webfont.woff) format("woff");
+    src: url(https://learn.captureone.com/wp-content/themes/captureone/fonts/soinsansneue-roman-webfont.woff2) format("woff2"),url(https://learn.captureone.com/wp-content/themes/captureone/fonts/soinsansneue-roman-webfont.woff) format("woff");
     font-weight: 400;
     font-style: normal
 }
